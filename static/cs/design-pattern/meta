@@ -1,0 +1,8 @@
+1,1.strategy
+2,2.observer *
+3,3.decorator
+4,4.factory method
+5,5.singleton
+6,6.command *
+7,7.adapter
+8,8.template
